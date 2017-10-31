@@ -16,6 +16,7 @@ public class MenuTree extends TreeNode {
     String redirect;
     String code;
     String  test;
+    String  test1;
 
     public String getCode() {
         return code;
@@ -121,5 +122,14 @@ public class MenuTree extends TreeNode {
 	public void setTest(String test) {
 		this.test = test;
 	}
+
+	public String getTest1() {
+		return test1;
+	}
+
+	public void setTest1(String test1) {
+		this.test1 = test1;
+	}
+	
     
 }
