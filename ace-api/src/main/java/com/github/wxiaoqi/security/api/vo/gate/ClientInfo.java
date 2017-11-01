@@ -37,7 +37,6 @@ public class ClientInfo implements Serializable{
     private String updName;
 
     private String updHost; 
-    private String  test;
 
     public Integer getId() {
         return id;
@@ -151,13 +150,6 @@ public class ClientInfo implements Serializable{
         this.updHost = updHost;
     }
 
-	public String getTest() {
-		return test;
-	}
-
-	public void setTest(String test) {
-		this.test = test;
-	}
-
+	
     
 }
