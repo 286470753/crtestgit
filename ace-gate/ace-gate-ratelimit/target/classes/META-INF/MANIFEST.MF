@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ace-gate-ratelimit
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.github.wxiaoqi
+Build-Jdk: 1.8.0_31
+Implementation-URL: https://github.com/wxiaoqi/ace-security/ace-gate/a
+ ce-gate-ratelimit
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
